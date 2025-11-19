@@ -92,3 +92,9 @@ Real-Time-Inventory-Management-System/
 │
 ├── README.md                   # Project description and structure
 └── requirements.txt            # Python dependencies
+
+```
+
+### Developed by
+
+**Prajwal Devaraj**
